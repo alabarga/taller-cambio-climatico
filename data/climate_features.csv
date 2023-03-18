@@ -1,0 +1,13 @@
+Feature Code,Feature Name,Unit,Source,Code
+POP,Population,People (B),https://data.worldbank.org/,SP.POP.TOTL
+URB,Urban Population,People (B),https://data.worldbank.org/,SP.URB.TOTL
+GDP,GDP Per Capita,Current US$ (100K),https://data.worldbank.org/,NY.GDP.PCAP.CD
+ENGY,Energy Use,Oil Equivalent per Capita (10K KG),https://data.worldbank.org/,EG.USE.PCAP.KG.OE
+FFEC%,Fossil Fuel Energy Proportion,% of Total Energy Use,https://data.worldbank.org/,EG.USE.COMM.FO.ZS
+NFFEC%,Non Fossil Fuel Energy Proportion,% of Total Energy Use,https://data.worldbank.org/,EG.USE.COMM.FO.ZS
+FFEC,Fossil Fuel Energy Consumption,Oil Equivalent per Capita (10K KG),https://data.worldbank.org/,EG.USE.COMM.FO.ZS
+NFFEC,Non Fossil Fuel Energy Consumption,Oil Equivalent per Capita (10K KG),https://data.worldbank.org/,EG.USE.COMM.FO.ZS
+CO2E,CO2 Emissions,Metric Tons (B),https://www.statista.com/statistics/264699/worldwide-co2-emissions/,EN.ATM.CO2E.KT
+CO2C,CO2 Concentration,Parts per Million (20 Year Smoothed),ftp.cmdl.noaa.gov/ccg/co2/trends/co2_annmean_mlo.txt ,
+TMPI,Global Temperature Increase,Degrees C (Lowess Smoothing),https://climate.nasa.gov/vital-signs/global-temperature/,
+TMPA,Temperature Anomolies,Degrees C,https://www.metoffice.gov.uk/hadobs/hadcrut5/,
