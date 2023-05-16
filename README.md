@@ -1,5 +1,10 @@
 # Taller análisis de datos sobre el cambio climático
 
+## Presentacion
+- https://speakerdeck.com/alabarga/climate-dot-change-dot-masterclass
+
+## Taller pr
+
 Para seguir el taller deberéis:
 
 - Instalar [Python](https://www.python.org/) (3.10)
