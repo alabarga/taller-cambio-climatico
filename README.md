@@ -3,7 +3,7 @@
 ## Presentacion
 - https://speakerdeck.com/alabarga/climate-dot-change-dot-masterclass
 
-## Taller pr
+## Taller práctico
 
 Para seguir el taller deberéis:
 
